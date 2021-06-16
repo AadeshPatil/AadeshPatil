@@ -3,8 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Aadesh, an conputer application student  from india.
-My intrest is in AI and  Machine Learning .
+I'm Aadesh,a computer application student from India. My interest is in AI and Machine Learning.
 
 
 ## Skills
