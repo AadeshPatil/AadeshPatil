@@ -1,3 +1,5 @@
+<img style=”margin: 10px” src="" alt=”React” height=”50" />
+
 - 👋 Hi, I’m @AadeshPatil
 - 👀 I’m interested in AI & Machine Learning
 - 🌱 I’m currently learning BCA 
