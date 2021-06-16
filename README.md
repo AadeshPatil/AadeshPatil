@@ -1,10 +1,17 @@
-<img src="https://github.com/AadeshPatil/AadeshPatil/blob/main/header.png" alt="banner that says abt Aadesh patil">
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
 
-- 👋 Hi, I’m @AadeshPatil
-- 👀 I’m interested in AI & Machine Learning
-- 🌱 I’m currently learning BCA 
-- 📫 How to reach me - [Instagram](https://instagram.com/aadesh.patil_)
-<!---
-AadeshPatil/AadeshPatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hey! 👋
+I'm Aadesh, an conputer application student  from india.
+My intrest is in AI and  Machine Learning .
+
+
+## Skills
+- 👨‍💻 html,css, JavaScript, PHP
+- ⚙️ nodeJs,angulaJs
+- 👁️ Python, c
+- 💽 MySQL, SQL 
+
+## Contact
+- [Instgram](https://instagram.com/aadesh.patil_)
