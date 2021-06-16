@@ -1,4 +1,4 @@
-<img src="https://github.com/AadeshPatil/AadeshPatil/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="https://github.com/AadeshPatil/AadeshPatil/blob/main/header.png" alt="banner that says abt Aadesh patil">
 
 - 👋 Hi, I’m @AadeshPatil
 - 👀 I’m interested in AI & Machine Learning
