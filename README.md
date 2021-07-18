@@ -3,14 +3,15 @@
 </h1>
 
 ## Hey! 👋
-I'm Aadesh,a computer application student from India. My interest is in AI and Machine Learning.
+I'm Aadesh,a computer application student from Maharastra🚩(India) .
+
 
 
 ## Skills
-- 👨‍💻 html,css, JavaScript, PHP
-- ⚙️ nodeJs,angulaJs
-- 👁️ Python, c
-- 💽 MySQL, SQL 
+- 👨‍💻 HTML,CSS, JavaScript, PHP
+- ⚙️ Angular 
+- 👁️ Python,c ,C++,
+- 💽 MySQL
 
 ## Contact
 - [Instgram](https://instagram.com/aadesh.patil_)
