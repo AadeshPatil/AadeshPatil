@@ -9,9 +9,9 @@ I'm Aadesh,a computer application student from Maharastra🚩(India) .
 
 ## Skills
 - 👨‍💻 HTML,CSS, JavaScript, PHP
-- ⚙️ Angular 
-- 👁️ Python,c ,C++,
-- 💽 MySQL
+- ⚙️ Angular, React
+- 👁️ Python,c ,Java
+- 💽 MySQL 
 
 ## Contact
 - [Instgram](https://instagram.com/aadesh.patil_)
