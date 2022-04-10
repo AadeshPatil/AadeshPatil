@@ -3,14 +3,14 @@
 </h1>
 
 ## Hey! 👋
-I'm Aadesh,a computer application student from Maharastra🚩(India) .
+I'm Aadesh Patil,Computer application student from Maharastra🚩(India) .
 
 
 
 ## Skills
-- 👨‍💻 HTML,CSS, JavaScript, PHP
-- ⚙️ Angular, React
-- 👁️ Python,C ,Java
+- 👨‍💻 HTML, CSS, JavaScript
+- ⚙️ Angular, ReactJS
+- 👁️ Python,Java, Kotlin
 - 💽 MySQL 
 
 ## Contact
