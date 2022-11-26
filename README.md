@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Aadesh Patil,a Software developer.
+I'm Aadesh Patil, Software developer.
 
 
 
