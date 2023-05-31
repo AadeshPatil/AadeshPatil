@@ -8,10 +8,10 @@ I'm Aadesh Patil, Software developer.
 
 
 ## Skills
+- ⚙️ Angular, Spring, React
 - 👨‍💻 HTML, CSS, JavaScript
-- ⚙️ Angular, Spring
 - 👁️ Java, Kotlin, Python
-- 💽 MySQL 
+- 💽 MySQL, Postgres, MongoDB, Neo4j
 
 ## Contact
 - [Instgram](https://instagram.com/aadesh.patil_)
