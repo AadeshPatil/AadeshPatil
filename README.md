@@ -1,6 +1,3 @@
-Here’s an updated version of your GitHub profile README with **Next.js** at the top of the tech stack and improved formatting:
-
----
 
 # 💫 About Me:
 🔭 I’m currently working at **App-Scoop Solutions** as an **SDE-2**  
@@ -52,6 +49,3 @@ Here’s an updated version of your GitHub profile README with **Next.js** at th
 
 [![](https://visitcount.itsvg.in/api?id=aadeshpatil&icon=0&color=3)](https://visitcount.itsvg.in)  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-This update ensures **Next.js** is prominently displayed and enhances the overall structure. 🚀
